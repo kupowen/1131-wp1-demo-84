@@ -2,6 +2,6 @@ git config --global user.email "212410384@o365.tku.edu.tw"
 
 git config --global user.name "212410384"
 
-git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2023-10-18"
+git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2024-9-17"
 
 sass --watch demo/w15_portfolio_84/scss:demo/w15_portfolio_84/css
